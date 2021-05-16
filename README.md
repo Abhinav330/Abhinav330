@@ -27,7 +27,7 @@ Here I upload Projects Related to Arduino , Raspberry pi and esp boards
 
 
 ### Social Media handles
-<div align = "left">
+<div>
 
 [<img src='https://www.sferalabs.cc/wp-content/uploads/github-logo-white.png' alt='github' height='40'>](https://github.com/Abhinav330) 
   
