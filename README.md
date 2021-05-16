@@ -37,10 +37,10 @@ Here I upload Projects Related to Arduino , Raspberry pi and esp boards
 <hr>
 
 
- 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav330)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav)](https://github.com/anuraghazra/github-readme-stats)
+
     
- ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinav330&show_icons=true&theme=prussian)
+ ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinav330&show_icons=true&theme=prussian)
   
 <hr>
 
