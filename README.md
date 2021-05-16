@@ -33,9 +33,9 @@ Here I upload Projects Related to Arduino , Raspberry pi and esp boards
 </div>
 <hr>
 
-<div align = "left">
+<div align = "center">
   
- <table style="width:30%">
+ <table style="width:50%">
 
   <tr>
   <td>   
