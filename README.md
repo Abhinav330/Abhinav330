@@ -10,5 +10,6 @@ Skills: C, PHP , Python , Arduino Programming , Django ,
 - 🔭 I’m currently working on this page. 
 
 
+[![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinav330)](https://github.com/anuraghazra/github-readme-stats)
 
 
