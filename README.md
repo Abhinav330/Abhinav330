@@ -35,14 +35,14 @@ Here I upload Projects Related to Arduino , Raspberry pi and esp boards
 
 <div align = "center">
   
- <table style="width:50%">
+ <table style="width:100%">
 
   <tr>
   <td>   
             
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav)](https://github.com/Abhinav330/github-readme-stats)
  </td>
- <td>      </td> 
+
     <td>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinav330&show_icons=true&theme=prussian)
