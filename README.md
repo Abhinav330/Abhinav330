@@ -35,13 +35,17 @@ Here I upload Projects Related to Arduino , Raspberry pi and esp boards
 [<img src='https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_of_YouTube_%282015-2017%29.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCu-u_iadMXMZMEY7tHnEl_g)  
 
 <hr>
+
+
+<table style="width:100%">
+  <tr>
+    <th> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav330)](https://github.com/anuraghazra/github-readme-stats)
+</th>
+    <th> ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinav330&show_icons=true&theme=prussian)
+</th>     
+  </tr>
+  </table>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav330)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr>
-
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinav330&show_icons=true&theme=prussian)
-
 <hr>
 
 ![Visitor Count](https://profile-counter.glitch.me/Abhinav330/count.svg)
