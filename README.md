@@ -16,9 +16,16 @@ Here I upload Projects Related to Arduino , Raspberry pi and esp boards
 
 <hr>
 
-Skills: C, PHP , Python , Arduino Programming , Django , 
+### Skills: 
 
-- 🔭 I’m currently working on this page. 
+# *  🤖  Arduino Programming
+# *   ✔  C Programming 
+# *  🎩  Python Programming
+# *  🚀   Django (Learning) 
+
+<hr>
+
+- 🔭 I’m currently working on Arduino. 
 
 - 🌱 I’m currently learning Python 
 
