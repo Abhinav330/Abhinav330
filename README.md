@@ -1,4 +1,7 @@
-![](https://github.com/Abhinav330/Abhinav330/blob/main/logo.png)
+<div align="center">
+  <img src="https://github.com/Abhinav330/Abhinav330/blob/main/logo.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
 
 ### Hii , I am Abhinav 
 
