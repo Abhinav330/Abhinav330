@@ -18,7 +18,7 @@ Here I upload Projects Related to Arduino , Raspberry pi and esp boards
 ### *  🤖  Arduino Programming
 ### *   ✔  C Programming 
 ### *  🎩  Python Programming
-### *  🚀   Django (Learning) 
+### *  🚀   Tkinter (Learning) 
 
 <hr>
 
