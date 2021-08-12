@@ -7,10 +7,10 @@
 # Hii , I am Abhinav 
 <hr>
 
-#### I am  a robotics Enthusiast and entry level python programmer  
+#### I am  a robotics Enthusiast and a python programmer.  
 
 <hr>
-Here I upload Projects Related to Arduino , Raspberry pi and esp boards
+Here I upload Projects Related to Arduino , Raspberry pi , esp boards and python based projects.
 <hr>
 
 ### Skills: 
@@ -18,7 +18,7 @@ Here I upload Projects Related to Arduino , Raspberry pi and esp boards
 ### *  🤖  Arduino Programming
 ### *   ✔  C Programming 
 ### *  🎩  Python Programming
-### *  🚀   Tkinter (Learning) 
+### *  🚀  Tkinter
 
 <hr>
 
@@ -56,7 +56,7 @@ Here I upload Projects Related to Arduino , Raspberry pi and esp boards
 </table>
 <hr>
 
-### Thank YOu for Visiting My Profile 
+### Thank You for Visiting My Profile 
 
 ![Visitor Count](https://profile-counter.glitch.me/Abhinav330/count.svg)
 
