@@ -10,7 +10,7 @@
 #### I am  a robotics Enthusiast and a python programmer.  
 
 <hr>
-Here I upload Projects Related to Arduino , Raspberry pi , esp boards and python based projects.
+Here I upload Projects Related to Arduino , Raspberry pi , esp boards and python programming.
 <hr>
 
 ### Skills: 
