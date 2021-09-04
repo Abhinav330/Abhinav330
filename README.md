@@ -15,16 +15,17 @@ Here I upload Projects Related to Arduino , Raspberry pi , esp boards and python
 
 ### Skills: 
 
-### *  🤖  Arduino Programming
-### *   ✔  C Programming 
+### *  🤖  Arduino Programming  
 ### *  🎩  Python Programming
-### *  🚀  Tkinter
+### *   ✔  Raspberry Pi
+### *  📡  IoT
+### *  ☁   AWS
 
 <hr>
 
-- 🔭 I’m currently working on Arduino. 
+- 🔭 I’m currently working on Arduino , Raspberry Pi and Python. 
 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning AWS. 
 
 <hr>
 
