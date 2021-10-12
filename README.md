@@ -25,7 +25,7 @@ Here I upload Projects Related to Arduino , Raspberry pi , esp boards and python
 
 - 🔭 I’m currently working on Arduino , Raspberry Pi and Python. 
 
-- 🌱 I’m currently learning AWS. 
+- 🌱 I’m currently learning Machine Learning. 
 
 <hr>
 
