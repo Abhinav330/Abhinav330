@@ -7,10 +7,10 @@
 # Hii , I am Abhinav 
 <hr>
 
-#### I am  a robotics Enthusiast and a python programmer.  
+#### I am  a robotics Enthusiast, python programmer and Data Engineer.  
 
 <hr>
-Here I upload Projects Related to Arduino , Raspberry pi , esp boards and python programming.
+Here I upload Projects Related to Arduino , Raspberry pi , esp boards ,python programming and ML & AI.
 <hr>
 
 ### Skills: 
@@ -26,7 +26,7 @@ Here I upload Projects Related to Arduino , Raspberry pi , esp boards and python
 
 <hr>
 
-- 🔭 I’m currently working on Arduino , Raspberry Pi and Python. 
+- 🔭 I’m currently working on Python , ML & AI. 
 
 - 🌱 I’m currently learning Machine Learning. 
 
