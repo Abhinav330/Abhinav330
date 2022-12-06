@@ -20,6 +20,9 @@ Here I upload Projects Related to Arduino , Raspberry pi , esp boards and python
 ### *   ✔  Raspberry Pi
 ### *  📡  IoT
 ### *  ☁   AWS
+### *  ☁   Azure
+### *  📚  SQL
+### *  🗃   Data warehousing
 
 <hr>
 
