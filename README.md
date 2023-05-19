@@ -7,7 +7,7 @@
 # Hii , I am Abhinav 
 <hr>
 
-#### I am  a robotics Enthusiast, python programmer and Data Engineer.  
+#### I am  a Data Engineer/ Data Analyst with around one year exprience. I am learning Data science.    
 
 <hr>
 Here I upload Projects Related to Arduino , Raspberry pi , esp boards ,python programming and ML & AI.
@@ -15,14 +15,22 @@ Here I upload Projects Related to Arduino , Raspberry pi , esp boards ,python pr
 
 ### Skills: 
 
-### *  🤖  Arduino Programming  
+### *  🤖  Data Analysis
+### *  ✔  ML Models
 ### *  🎩  Python Programming
-### *   ✔  Raspberry Pi
-### *  📡  IoT
-### *  ☁   AWS
 ### *  ☁   Azure
 ### *  📚  SQL
 ### *  🗃   Data warehousing
+
+### Other Skills:
+
+### *  🤖  Arduino Programming  
+### *   ✔  Raspberry Pi
+### *  📡  IoT
+### *  ☁   AWS
+
+
+
 
 <hr>
 
