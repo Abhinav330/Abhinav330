@@ -7,10 +7,10 @@
 # Hii , I am Abhinav 
 <hr>
 
-#### I am  a Data Engineer/ Data Analyst with around one year exprience. I am learning Data science.    
+#### I am a Doing Masters in Data Science student. I have two year exprience woring in IT industry.    
 
 <hr>
-Here I upload Projects Related to Arduino , Raspberry pi , esp boards ,python programming and ML & AI.
+Here I upload Projects Related Python programming, Generative AI, EDA's and ML projects. previously I use to upload projects related to Arduino , Raspberry pi, esp boards etc.
 <hr>
 
 ### Skills: 
@@ -30,13 +30,12 @@ Here I upload Projects Related to Arduino , Raspberry pi , esp boards ,python pr
 ### *  ☁   AWS
 
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
 
 <hr>
-
-- 🔭 I’m currently working on Python , ML & AI. 
-
-- 🌱 I’m currently learning Machine Learning. 
+ 
+- 🌱 I’m currently learning Data Science. 
 
 <hr>
 
@@ -44,7 +43,7 @@ Here I upload Projects Related to Arduino , Raspberry pi , esp boards ,python pr
 
 <div>
 
-[<img src='https://www.sferalabs.cc/wp-content/uploads/github-logo-white.png' alt='github' height='40'>](https://github.com/Abhinav330) [<img src='https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_960_720.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhi-nav-b303a6174//)   [<img src='https://cdn-icons-png.flaticon.com/512/174/174855.png' alt='instagram' height='40'>](https://www.instagram.com/atall_robotics/) [<img src='https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_of_YouTube_%282015-2017%29.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCu-u_iadMXMZMEY7tHnEl_g)  
+[<img src='https://www.sferalabs.cc/wp-content/uploads/github-logo-white.png' alt='github' height='40'>](https://github.com/Abhinav330) [<img src='https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_960_720.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhinav33303/)   [<img src='https://cdn-icons-png.flaticon.com/512/174/174855.png' alt='instagram' height='40'>](https://www.instagram.com/atall_robotics/) [<img src='https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_of_YouTube_%282015-2017%29.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCu-u_iadMXMZMEY7tHnEl_g)  
 </div>
 <hr>
 
