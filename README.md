@@ -5,7 +5,7 @@
 # Hii , I am Abhinav 
 <hr>
 
-#### I am a Doing Masters in Data Science student. I have two year exprience woring in IT industry.    
+#### I am a Doing Masters in Data Science. I have two year exprience woring in IT industry.    
 
 <hr>
 Here I upload Projects Related Python programming, Generative AI, EDA's and ML projects. previously I use to upload projects related to Arduino , Raspberry pi, esp boards etc.
