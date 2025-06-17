@@ -15,19 +15,19 @@ Here I upload Projects Related Python programming, Generative AI, EDA's and ML p
 ### Skills: 
 
 
-### *  🤖  AI Agents
-### *  ✔  LLM's Finetuning
-### *  🎩  Machine Learning
-### *  ☁   Python programming
-### *  📚  AI Research
-### *  🗃  AI Architecture solutions
+### * AI Agents.
+### * LLM's Finetuning.
+### * Machine Learning.
+### * Python programming.
+### * AI Research.
+### * AI Architecture solutions.
 
 ### Other Skills:
 
-### *  🤖  Fine-tunning: Mistral, Gemma, Llama 3, Deepseek, Phi, Qwen models, API inference: All models. 
-### *   ✔  Pandas, Scikit-learn(sklearn), Data Cleaning, Feature Engineering, Hugging Face, Langchain, Langgraph, Ollama, Llama Index etc.. 
-### *  📡  Arduino Programming, Raspberry Pi, ESP32, ESP8266
-### *  ☁   Azure (3 Official Certifications), AWS, GCP
+### * Fine-tunning: Mistral, Gemma, Llama 3, Deepseek, Phi, Qwen models, API inference: All models. 
+### * Pandas, Scikit-learn(sklearn), Data Cleaning, Feature Engineering, Hugging Face, Langchain, Langgraph, Ollama, Llama Index etc.. 
+### * Arduino Programming, Raspberry Pi, ESP32, ESP8266.
+### * Azure (3 Official Certifications), AWS, GCP.
 
 
 
