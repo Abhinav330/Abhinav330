@@ -5,7 +5,8 @@
 # Hii , I am Abhinav 
 <hr>
 
-#### I am a Doing Masters in Data Science. I have two year exprience woring in IT industry.    
+#### AI & Data Science professional with expertise in machine learning, generative AI, and big data
+analytics    
 
 <hr>
 Here I upload Projects Related Python programming, Generative AI, EDA's and ML projects. previously I use to upload projects related to Arduino , Raspberry pi, esp boards etc.
@@ -13,26 +14,28 @@ Here I upload Projects Related Python programming, Generative AI, EDA's and ML p
 
 ### Skills: 
 
-### *  🤖  Data Analysis
-### *  ✔  ML Models
-### *  🎩  Python Programming
-### *  ☁   Azure
-### *  📚  SQL
-### *  🗃   Data warehousing
+
+### *  🤖  AI Agents
+### *  ✔  LLM's Finetuning
+### *  🎩  Machine Learning
+### *  ☁   Python programming
+### *  📚  AI Research
+### *  🗃  AI Architecture solutions
 
 ### Other Skills:
 
-### *  🤖  Arduino Programming  
-### *   ✔  Raspberry Pi
-### *  📡  IoT
-### *  ☁   AWS
+### *  🤖  Fine-tunning: Mistral, Gemma, Llama 3, Deepseek, Phi, Qwen models, API inference: All models. 
+### *   ✔  Pandas, Scikit-learn(sklearn), Data Cleaning, Feature Engineering, Hugging Face, Langchain, Langgraph, Ollama, Llama Index etc.. 
+### *  📡  Arduino Programming, Raspberry Pi, ESP32, ESP8266
+### *  ☁   Azure (3 Official Certifications), AWS, GCP
+
 
 
 
 
 <hr>
  
-- 🌱 I’m currently learning Data Science. 
+- 🌱 I’m currently learning and experimenting with AI Agents. 
 
 <hr>
 
