@@ -76,3 +76,11 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav330&theme=dracula&hide_border=false" alt="streak stats" />
 </div>
+
+---
+
+
+![snake gif](https://github.com/Abhinav330/Abhinav330/blob/output/github-snake-dark.svg)
+  
+
+###
