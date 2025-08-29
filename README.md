@@ -73,8 +73,9 @@
 
 ## 📈 GitHub Stats
 
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav330&theme=dracula&hide_border=false" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav330&theme=dracula&hide_border=false" alt="streak stats"/>
 </div>
 
 ---
